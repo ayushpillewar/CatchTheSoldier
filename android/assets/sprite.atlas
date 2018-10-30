@@ -1,0 +1,69 @@
+
+sprite.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boat
+  rotate: false
+  xy: 2, 2
+  size: 326, 86
+  orig: 326, 86
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 2, 90
+  size: 339, 146
+  orig: 339, 146
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 386, 238
+  size: 382, 284
+  orig: 382, 284
+  offset: 0, 0
+  index: -1
+player1
+  rotate: false
+  xy: 1023, 734
+  size: 382, 284
+  orig: 382, 284
+  offset: 0, 0
+  index: -1
+player2
+  rotate: false
+  xy: 1407, 734
+  size: 382, 284
+  orig: 382, 284
+  offset: 0, 0
+  index: -1
+playeronly
+  rotate: false
+  xy: 386, 524
+  size: 382, 284
+  orig: 382, 284
+  offset: 0, 0
+  index: -1
+playeronly1
+  rotate: false
+  xy: 2, 524
+  size: 382, 284
+  orig: 382, 284
+  offset: 0, 0
+  index: -1
+playeronly2
+  rotate: false
+  xy: 2, 238
+  size: 382, 284
+  orig: 382, 284
+  offset: 0, 0
+  index: -1
+sea
+  rotate: false
+  xy: 2, 810
+  size: 1019, 208
+  orig: 1019, 208
+  offset: 0, 0
+  index: -1

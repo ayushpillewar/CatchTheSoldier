@@ -1,0 +1,34 @@
+
+unnamed.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+exitclickednwe
+  rotate: false
+  xy: 329, 2
+  size: 325, 344
+  orig: 325, 344
+  offset: 0, 0
+  index: -1
+exitnew
+  rotate: false
+  xy: 2, 2
+  size: 325, 344
+  orig: 325, 344
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 983, 2
+  size: 325, 344
+  orig: 325, 344
+  offset: 0, 0
+  index: -1
+playclicked
+  rotate: false
+  xy: 656, 2
+  size: 325, 344
+  orig: 325, 344
+  offset: 0, 0
+  index: -1
